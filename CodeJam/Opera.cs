@@ -10,7 +10,7 @@ namespace CodeJam
     public class Opera
     {
 
-        public static void MainOpera(String[] args)
+        public static void Main(String[] args)
         {
 
             string strNumberOfCases;
