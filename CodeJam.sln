@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opera", "CodeJam\Opera.csproj", "{724F357C-A855-4292-AB73-AAA00EBAE15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWords", "ReverseWords\ReverseWords.csproj", "{BA005D38-6951-4776-93E1-254D9E90AB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreCredit", "StoreCredit\StoreCredit.csproj", "{BD4A5C72-7C3B-4ED3-8E00-4BC0902922DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9Spelling", "T9Spelling\T9Spelling.csproj", "{13997D8D-A95D-423F-9834-28574F7E80EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724F357C-A855-4292-AB73-AAA00EBAE15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724F357C-A855-4292-AB73-AAA00EBAE15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724F357C-A855-4292-AB73-AAA00EBAE15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724F357C-A855-4292-AB73-AAA00EBAE15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA005D38-6951-4776-93E1-254D9E90AB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA005D38-6951-4776-93E1-254D9E90AB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA005D38-6951-4776-93E1-254D9E90AB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA005D38-6951-4776-93E1-254D9E90AB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4A5C72-7C3B-4ED3-8E00-4BC0902922DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4A5C72-7C3B-4ED3-8E00-4BC0902922DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4A5C72-7C3B-4ED3-8E00-4BC0902922DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4A5C72-7C3B-4ED3-8E00-4BC0902922DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13997D8D-A95D-423F-9834-28574F7E80EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13997D8D-A95D-423F-9834-28574F7E80EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13997D8D-A95D-423F-9834-28574F7E80EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13997D8D-A95D-423F-9834-28574F7E80EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
