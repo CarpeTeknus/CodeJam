@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreCredit", "StoreCredit\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9Spelling", "T9Spelling\T9Spelling.csproj", "{13997D8D-A95D-423F-9834-28574F7E80EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumScalarProduct", "MinimumScalarProduct\MinimumScalarProduct.csproj", "{2662F588-AEC4-4FD1-80FD-D5D66C5213A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{13997D8D-A95D-423F-9834-28574F7E80EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13997D8D-A95D-423F-9834-28574F7E80EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13997D8D-A95D-423F-9834-28574F7E80EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2662F588-AEC4-4FD1-80FD-D5D66C5213A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2662F588-AEC4-4FD1-80FD-D5D66C5213A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2662F588-AEC4-4FD1-80FD-D5D66C5213A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2662F588-AEC4-4FD1-80FD-D5D66C5213A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
